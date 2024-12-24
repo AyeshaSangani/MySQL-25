@@ -4,6 +4,7 @@ create database "allstudentdata";
 
 2-- for use database 
 use database "allstudentdata"
+  [{(always use this before inserting or updating the data or creating table)}]
 
   
 3-- for creating table 
